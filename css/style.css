@@ -1,0 +1,110 @@
+body{
+    background-color: grey;
+    margin:0px;
+
+}
+
+#site_header{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: white;
+}
+
+.logo{
+    margin-left: 1rem;
+}
+
+main{
+    width: 900px;
+    margin: 50px auto 0;
+    background-color: white;
+}
+
+.add_task{
+    color:white;
+    background-color: #14AAF5;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+
+}
+#site_buttons{
+    padding: 1rem;
+}
+
+hr{
+    margin-top: 10px;
+}
+
+.triangle-down {
+    display:inline-block;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 9px solid black;
+}
+
+.testo{
+    font-size: 24px;
+}
+
+.tag_editorial{
+    font-size: 10px;
+    color:white;
+    background-color: #14AAF5;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+}
+
+.tag_qigoals{
+    font-size: 10px;
+    color:white;
+    background-color: #8a5ddf;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+}
+
+.tag_recruiting{
+    font-size: 10px;
+    color:white;
+    background-color: #558a75;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+
+}
+.tag_mobile{
+    font-size: 10px;
+    color:white;
+    background-color: #d4b45b;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+
+}
+
+.tag_website{
+    font-size: 10px;
+    color:white;
+    background-color: #df6dd6;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+
+}
+
+.tag_sales{
+    font-size: 10px;
+    color:white;
+    background-color: #86e679;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+
+}
+
+
+
